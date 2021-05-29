@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TiempoMetaGD/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/TiempoMetaGD/static/js/main.7a458bcb.chunk.js",
+    "main.js.map": "/TiempoMetaGD/static/js/main.7a458bcb.chunk.js.map",
+    "runtime-main.js": "/TiempoMetaGD/static/js/runtime-main.c48b22bf.js",
+    "runtime-main.js.map": "/TiempoMetaGD/static/js/runtime-main.c48b22bf.js.map",
+    "static/js/2.4052e17b.chunk.js": "/TiempoMetaGD/static/js/2.4052e17b.chunk.js",
+    "static/js/2.4052e17b.chunk.js.map": "/TiempoMetaGD/static/js/2.4052e17b.chunk.js.map",
+    "static/js/3.c40e511a.chunk.js": "/TiempoMetaGD/static/js/3.c40e511a.chunk.js",
+    "static/js/3.c40e511a.chunk.js.map": "/TiempoMetaGD/static/js/3.c40e511a.chunk.js.map",
+    "index.html": "/TiempoMetaGD/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/TiempoMetaGD/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4052e17b.chunk.js.LICENSE.txt": "/TiempoMetaGD/static/js/2.4052e17b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c48b22bf.js",
+    "static/js/2.4052e17b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7a458bcb.chunk.js"
+  ]
+}
